@@ -6,7 +6,7 @@ Each category contains atleast 1000 News Article for training the Model and 25 N
 
 ``` Format of News Articles: Title_of_the_News.txt```
 
-<b>Libraries Used</b>: (scikit-learn)[http://scikit-learn.org/] and (jupyter notebook)[http://jupyter.org/]
+<b>Libraries Used</b>: [scikit-learn](http://scikit-learn.org/) and [jupyter notebook](http://jupyter.org/)
 
 ### Models
 1. Multinomial Navie Bayes
@@ -32,7 +32,7 @@ Last section show us how we can save the Model that we have tuned and trained fo
 
 
 
-<b>Datset</b>
+### Datset
 ``` 
 Dataset is availabel in Dataset (News).rar file.
 Just Extract the file and Enjoy
