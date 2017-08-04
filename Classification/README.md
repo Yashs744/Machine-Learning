@@ -34,6 +34,6 @@ Last section show us how we can save the Model that we have tuned and trained fo
 
 ### Datset
 ``` 
-Dataset is availabel in Dataset (News).rar file.
+Dataset is availabel in 'Dataset (News).rar' file.
 Just Extract the file and Enjoy
 ```
